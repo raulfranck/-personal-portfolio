@@ -1,0 +1,30 @@
+.navbar-main {
+  background-color: rgb(173, 171, 171);
+  width: 100%;
+  height: auto;
+
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-main div {
+  align-items: center;
+}
+
+.navbar-main div img {
+  height: 3rem;
+  padding-top: 5px;
+}
+
+.navbar-ul {
+  display: flex;
+  width: 20rem;
+
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-ul li {
+  list-style: none;
+  color: #fff;
+}
